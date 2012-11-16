@@ -4,7 +4,7 @@
 
 cd ocaml
 
-git svn fetch -A authors.txt --all || exit $?
+git svn fetch -A ../authors.txt --all || exit $?
 
 for branch in `git branch -r | grep '^  svn/' | grep -v '^  svn/tags'`;
 do
