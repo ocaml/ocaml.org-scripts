@@ -9,7 +9,7 @@ git svn fetch -A ../authors.txt --all || exit $?
 for branch in `git branch -r | grep '^  svn/' | grep -v '^  svn/tags'`;
 do
     name=`echo "$branch" | awk -F '/' '{print $2}'`
-    git branch -f --track "$name" "remotes/$branch" || exit $?
+    git branch -f --track "$name" "$branch" || exit $?
 done
 
 for tag in `git branch -r | grep '^  svn/tags'`;
