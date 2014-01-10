@@ -1,6 +1,7 @@
 (no author) = No author <no_author@ocaml.org>
 basile     = Basile Starynkevitch <basile.starynkevitch@inria.fr>
 bmeurer    = Benedikt Meurer <benedikt.meurer@googlemail.com>
+chambart   = Pierre Chambart <pierre.chambart@ocamlpro.com>
 ddr        = Daniel de Rauglaudre <daniel.de_rauglaudre@inria.fr>
 dim        = Jérémie Dimino <jeremie@dimino.org>
 doligez    = Damien Doligez <damien.doligez-inria.fr>
