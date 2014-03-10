@@ -21,6 +21,7 @@ maranget   = Luc Maranget <luc.maranget@inria.fr>
 mauny      = Michel Mauny <Michel.Mauny@ensta.fr>
 meyer      = Wojciech Meyer <wojciech.meyer@gmail.com>
 michel     = Michel Mauny <Michel.Mauny@ensta.fr>
+mshinwell  = Mark Shinwell <mshinwell@janestreet.com>
 naxu       = Dana N. Xu <na.xu@inria.fr>
 peskine    = Gilles Peskine <Gilles.Peskine@inria.fr>
 pessaux    = Francois Pessaux <francois_pessaux@yahoo.fr>
