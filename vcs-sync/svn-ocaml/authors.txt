@@ -15,6 +15,7 @@ hongboz    = Hongbo Zhang <bobzhang1988 AT gmail.com>
 lefessan   = Fabrice Le Fessant <Fabrice.Le_fessant@inria.fr>
 leifer	   = James Leifer <James.Leifer@inria.fr>
 lenormand  = Jacques Le Normand <rathereasy@gmail.com>
+lpw25      = Leo White <leo@lpw25.net>
 ma         = Luc Maranget <luc.maranget@inria.fr>
 mandel     = Louis Mandel <louis.mandel@inria.fr>
 maranget   = Luc Maranget <luc.maranget@inria.fr>
